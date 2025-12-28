@@ -7,7 +7,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2024
 venue: 'IATSS Research'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://elhafidy1.github.io/files/paper1.pdf'
+paperurl: https://pdf.sciencedirectassets.com/280270/1-s2.0-S0386111224000463/main.pdf
 bibtexurl: '[https://academicpages.github.io/files/bibtex1.bib](https://scholar.googleusercontent.com/scholar.bib?q=info:2-AXDxIq9L4J:scholar.google.com/&output=citation&scisdr=CrwNTHaREOjkrJusZUo:ALhkC2QAAAAAaVGqfUurZ0MXcDau9LRdoAjQu1U&scisig=ALhkC2QAAAAAaVGqfbowzFbnPbbywOz3HhBKDvE&scisf=4&ct=citation&cd=-1&hl=fr)'
 citation: 'El Hafidy, A., Rachad, T., & Idri, A. (2024). Factors associated with speeding behavior of Moroccan drivers: Study guided by the theory of planned behavior. IATSS Research, 48(4), 516-522.'
 ---
