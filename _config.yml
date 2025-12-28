@@ -42,7 +42,7 @@ author:
   linkedin         : "https://www.linkedin.com/in/abderrahim-el-hafidy-phd-8bb21651/"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Abderrahim-El-Hafidy"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=59164240500"
   zotero           : # URL
