@@ -2,7 +2,7 @@
 title: "Factors associated with speeding behavior of Moroccan drivers: Study guided by the theory of planned behavior"
 collection: publications
 category: manuscripts
-permalink: /publication/IATSS
+permalink: /publications/IATSS
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024
 venue: 'IATSS Research'
