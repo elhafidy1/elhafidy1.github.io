@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in computer Science, ENSIAS, Mohammed V University in Rabat, Morocco, 2025
-* M.S. in Internet of Things and Mobile Services, ENSIAS, Mohammed V University in Rabat, Morocco, 2018
-* B.S. in computer Science, Mohammed V University in Rabat, Morocco, 2011
+* Ph.D. in Computer Science, National School of Computer Science and Systems Analysis (ENSIAS), Mohammed V University in Rabat, Morocco, 2025.
+* M.S. in Internet of Things and Mobile Services, National School of Computer Science and Systems Analysis (ENSIAS), Mohammed V University in Rabat, Morocco, 2018.
+* B.S. in Computer Science (Computer Systems Administration), Mohammed V University in Rabat, Morocco, 2011.
+* BTS (Higher Technician Certificate) in Computer Hardware and Network Maintenance, 2008.
+* Baccalaureate (High School Diploma) in Electronics, 2006.
 
 Work experience
 ======
