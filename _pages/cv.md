@@ -19,48 +19,29 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2013 – Present: Ministry of National Education, Morocco  
+  * Teaching 
+  * Administrative and pedagogical responsibilities
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2008 – 2012: Maroc Telecom
+  * Technical support for telecommunications networks 
+  * Operation and maintenance of switching systems (OMC-S)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Conducting literature reviews and systematic mapping studies (SLR, SMS), including search question formulation and comprehensive data analysis using the PICO framework and PRISMA guidelines.
+* Conducting meta-analysis using R, including effect size calculation, test of heterogeneity, and outlier detection.
+* Data survey analysis (Descriptive Statistics, Correlation Analysis, Regression Analysis, Exploratory Factor Analysis, Confirmatory Factor Analysis, and Structural Equation Modeling) using IBM SPSS and AMOS software.
+* Applying machine learning algorithms for data preprocessing, classification, and clustering using Weka software.
+* Performing scraping of mobile application data from Google Play Store and Apple App Store.
+* Design of mobile applications using Figma.
+* Conception and development of mobile applications using Flutter and Firebase.
+* Conducting usability evaluation of a mobile app/system using ISO 9241-11 standard guideline.
+
+
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

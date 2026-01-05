@@ -3,10 +3,10 @@ title: "SpeedBehavior – Adaptive Mobile App for Speed Limit Compliance"
 collection: portfolio
 permalink: /projects/speedbehavior/
 date: 2025-01-01
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/speedbehavior.png'>"
+excerpt: "Adaptive mobile application designed to promote compliance with speed limits among drivers."
 ---
 
-![SpeedBehavior App](../../images/speedbehavior.png)
+![SpeedBehavior App](/images/speedbehavior.png)
 
 **SpeedBehavior** is an evidence-based mobile application designed to promote
 adherence to speed limits among Moroccan drivers.
@@ -31,7 +31,9 @@ The application is grounded in behavioral theories, particularly the
 This project supports my research on driving behavior, speeding intention,
 and behavior change interventions in road safety.
 
-## 🔗 Links
-- 📱 Google Play: https://play.google.com/store/apps/details?id=…
-- 💻 GitHub: https://github.com/…
-- 📄 Related paper: https://doi.org/10.1016/j.iatssr.2024.09.003
+## 🔗 Access the app
+- 📱 **Google Play Store**:  
+  https://play.google.com/store/apps/details?id=com.behavior.speeding
+
+- 🌐 **Official website**:  
+  https://speedbehavior.systeme.io/mobileapp
