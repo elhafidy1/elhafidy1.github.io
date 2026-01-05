@@ -3,7 +3,7 @@ title: "SpeedBehavior – Adaptive Mobile App for Speed Limit Compliance"
 collection: portfolio
 permalink: /projects/speedbehavior/
 date: 2025-01-01
-excerpt: ""
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/speedbehavior.png'>"
 ---
 
 ![SpeedBehavior App](../../images/speedbehavior.png)
