@@ -9,9 +9,9 @@ redirect_from:
 
 I am a computer science researcher and educator based in Morocco, currently working with the **Ministry of National Education**.
 
-My research focuses on **driving behavior analysis**, **road safety**, and **behavior change interventions**, with particular interest in the **Theory of Planned Behavior (TPB)**, **mobile health (mHealth) solutions**, and **adaptive mobile applications**. I have published peer-reviewed journal and conference papers in Q1–Q3 international venues.
+My research focuses on **driving behavior analysis**, **road safety**, **behavior change techniques** and **behavior change interventions**, with particular interest in the **Theory of Planned Behavior (TPB)**, **mobile health (mHealth) solutions**, and **adaptive mobile applications**. I have published peer-reviewed journal and conference papers in international venues.
 
 I am also involved in the **design and development of mobile applications** aimed at promoting safer driving behavior, including *SpeedBehavior*, an adaptive mobile app for speed limit compliance.
 
-This website presents my **research publications**, **projects**, **teaching activities**, and **academic contributions**.
+This website presents my **research publications**, **projects**, **activities**, and **academic contributions**.
 
