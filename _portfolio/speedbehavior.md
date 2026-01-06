@@ -6,7 +6,9 @@ date: 2025-01-01
 excerpt: "Adaptive mobile application designed to promote compliance with speed limits among drivers."
 ---
 
-![SpeedBehavior App](/images/speedbehavior.png)
+<p style="text-align: center;">
+  <img src="/images/speedbehavior.png" alt="SpeedBehavior App" style="max-width: 450px; height: auto;">
+</p>
 
 **SpeedBehavior** is an evidence-based mobile application designed to promote
 adherence to speed limits among Moroccan drivers.
