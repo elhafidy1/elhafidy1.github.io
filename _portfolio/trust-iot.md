@@ -6,7 +6,7 @@ date: 2018-01-01
 excerpt: "Study and simulation of trust management mechanisms in IoT environments, with a trust-based intrusion detection system."
 ---
 <p style="text-align: center;">
-  <img src="/images/speedbehavior.png" alt="SpeedBehavior App" style="max-width: 200px; height: auto;">
+  <img src="/images/trust-iot.png" alt="SpeedBehavior App" style="max-width: 200px; height: auto;">
 </p>
 
 **Trust in Internet of Things (IoT)** is an academic project focused on the study
