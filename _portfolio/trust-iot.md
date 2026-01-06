@@ -43,3 +43,7 @@ These metrics are used to evaluate:
 
 ## 🔑 Keywords
 Internet of Things (IoT), trust, trust management, intrusion detection, RPL protocol, IoT security
+
+## 🔗 Access the project
+- 🌐 **Official website**:  
+  [http://opac.um5.ac.ma/ensias/index.php?lvl=author_see&id=5380](http://opac.um5.ac.ma/ensias/index.php?lvl=author_see&id=5380)
