@@ -7,7 +7,7 @@ excerpt: "Adaptive mobile application designed to promote compliance with speed 
 ---
 
 <p style="text-align: center;">
-  <img src="/images/speedbehavior.png" alt="SpeedBehavior App" style="max-width: 450px; height: auto;">
+  <img src="/images/speedbehavior.png" alt="SpeedBehavior App" style="max-width: 200px; height: auto;">
 </p>
 
 **SpeedBehavior** is an evidence-based mobile application designed to promote
