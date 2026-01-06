@@ -35,7 +35,7 @@ and behavior change interventions in road safety.
 
 ## 🔗 Access the app
 - 📱 **Google Play Store**:  
-  https://play.google.com/store/apps/details?id=com.behavior.speeding
+  [https://play.google.com/store/apps/details?id=com.behavior.speeding](https://play.google.com/store/apps/details?id=com.behavior.speeding)
 
 - 🌐 **Official website**:  
-  https://speedbehavior.systeme.io/mobileapp
+  [https://speedbehavior.systeme.io/mobileapp](https://speedbehavior.systeme.io/mobileapp)
