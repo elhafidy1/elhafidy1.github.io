@@ -5,6 +5,9 @@ permalink: /projects/trust-iot/
 date: 2018-01-01
 excerpt: "Study and simulation of trust management mechanisms in IoT environments, with a trust-based intrusion detection system."
 ---
+<p style="text-align: center;">
+  <img src="/images/speedbehavior.png" alt="SpeedBehavior App" style="max-width: 200px; height: auto;">
+</p>
 
 **Trust in Internet of Things (IoT)** is an academic project focused on the study
 and simulation of **trust management** in IoT networks.
@@ -44,6 +47,6 @@ These metrics are used to evaluate:
 ## 🔑 Keywords
 Internet of Things (IoT), trust, trust management, intrusion detection, RPL protocol, IoT security
 
-## 🔗 Access the project
+## 🔗 Access to the project
 - 🌐 **Official website**:  
   [http://opac.um5.ac.ma/ensias/index.php?lvl=author_see&id=5380](http://opac.um5.ac.ma/ensias/index.php?lvl=author_see&id=5380)
